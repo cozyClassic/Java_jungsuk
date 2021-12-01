@@ -1,7 +1,8 @@
-package day_005;
+package day_006;
 
 public class ch9_16 {
     public static void main(String args[]) {
+        /*
         public StringBuffer(int length) {
             value = new char[length];
             shared = false;
@@ -15,6 +16,6 @@ public class ch9_16 {
             this(str.length() + 16);// 지정한 문자열의 길이보다 16이 더 크게 버퍼를 생성한다.
             append(str);
         }
-
+        */
     }
 }

@@ -1,4 +1,4 @@
-package day_002;
+package day_003;
 // Car, FireEngine의 class 세팅
 // main 함수가 무조건 맨 위에 있어야 한다?
 public class ch7_31 {
@@ -7,7 +7,7 @@ public class ch7_31 {
     }
 
 }
-
+/*
 abstract class Player { // 추상클래스
     abstract void play(int pos); // 추상메서드
     abstract void stop();        // 추상메서드
@@ -25,3 +25,4 @@ class AbsctractPlayer extends Player { // -> 에러가 발생한다.
     // 2. 클래스에 abstarct를 붙인다.
     void play(ins pos) {}; // 추상메서드 구현
 }
+*/

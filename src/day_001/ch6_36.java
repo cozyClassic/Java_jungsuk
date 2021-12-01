@@ -43,7 +43,7 @@ class Car2 {
 class add10{
 	int a;
 	int b;
-	String c = long.class.toString()
+	String c = long.class.toString();
 			
 	
 	add10(int a, int b){

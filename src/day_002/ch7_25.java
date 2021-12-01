@@ -1,8 +1,10 @@
 package day_002;
 // Car, FireEngine의 class 세팅
 // main 함수가 무조건 맨 위에 있어야 한다?
+
 public class ch7_25 {
     public static void main(String args[]){
+        /*
         Car car = null;
         FireEngine fe = new FireEngine();
         FireEngine fe2 = null;
@@ -35,5 +37,7 @@ class Car {
 class FireEngine extends Car {
     void water() { // 물을 뿌리는 기능
         System.out.println("Water, shh~~~");
+        
+         */
     }
 }

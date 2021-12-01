@@ -5,7 +5,7 @@ public class ch7_23 {
 
     }
 
-    Class Tv {
+    class Tv {
         boolean power;
         int channel;
 
